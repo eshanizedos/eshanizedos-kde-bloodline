@@ -1,0 +1,23 @@
+[Desktop Entry]
+DefaultProfile=eshanizedos.profile
+
+[General]
+ConfigVersion=1
+
+[KonsoleWindow]
+RememberWindowSize=false
+ShowMenuBarByDefault=false
+
+[MainWindow]
+1920x1080 screen: Height=646
+1920x1080 screen: Width=1019
+1920x1080 screen: XPosition=330
+1920x1080 screen: YPosition=298
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAAAAAAAAPwCAAAAAvsAAAAiAFEAdQBpAGMAawBDAG8AbQBtAGEAbgBkAHMARABvAGMAawAAAAAA/////wAAAWMA////+wAAABwAUwBTAEgATQBhAG4AYQBnAGUAcgBEAG8AYwBrAAAAAAD/////AAABAQD///8AAARfAAACMgAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAMAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAAAAABwAcwBlAHMAcwBpAG8AbgBUAG8AbwBsAGIAYQByAAAAAAAAAAH7AAAAAAAAAAA=
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+eDP=eDP
+
+[UiSettings]
+ColorScheme=
